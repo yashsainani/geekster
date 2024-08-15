@@ -1,3 +1,5 @@
 error file.
 
 This file should be ignore.
+
+file should be ignore.
