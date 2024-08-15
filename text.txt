@@ -5,4 +5,9 @@ Hello guyz how's going.
 It's not working!
 
 Again Checking.
+
 Checking returns.
+
+checking for gitignore command.
+
+Here I am also doing some changes for chekcing.
