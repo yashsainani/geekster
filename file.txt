@@ -1,5 +1,7 @@
 Hello guz this the first txt file of my first git repositry.
 
+I am writing thi from a new branch.
+
 Checking that is changes are been tracking or not.
 
 Checking once again.
